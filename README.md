@@ -5,6 +5,8 @@
 The **JS Popup** project demonstrates the creation of custom popup modals using JavaScript, HTML, and CSS. This project is useful for adding interactive elements like alerts, confirmations, or custom messages to web applications.
 [TRY NOW!](https://qyuzet.github.io/js-popup/)
 
+![image](https://github.com/Qyuzet/js-popup/assets/93258081/7b9c648c-6b21-41f2-a39b-782110dd2c0e)
+
 
 ## Features
 
